@@ -4,3 +4,5 @@
 
 
 Amiga Midi Main Project and licenze by Davide Bucci http://davbucci.chez-alice.fr/index.php?argument=elettronica/midiint/midiint.inc
+
+PCB By amigamess ONLY FOR PERSONAL USE!
